@@ -1,5 +1,5 @@
 //
-// Created by Ashwin Ram on 7/26/22.
+// Created by Ashwin Ram
 //
 
 #ifndef TREETRAVERSAL_BT_H
